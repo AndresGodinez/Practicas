@@ -1,0 +1,8 @@
+Metodos abreviados SublimeText
+Alignment
+ctrl+alt+ a
+
+Colorpicker
+ctrl+shift+c
+emet 
+ctrl+enter
